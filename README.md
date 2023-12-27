@@ -1,2 +1,3 @@
 # cloudflare-worker-d1-rust-example
-A sample code for Cloudflare Worker using Rust using D1.
+
+Renamed the repo. Visit: [cloudflare-workers-d1-rust-example](https://github.com/minagawah/cloudflare-workers-d1-rust-example)
